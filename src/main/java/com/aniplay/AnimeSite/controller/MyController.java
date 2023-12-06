@@ -23,7 +23,7 @@ import com.aniplay.AnimeSite.services.UserServices;
 import jakarta.servlet.http.HttpSession;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:3000")
+
 public class MyController {
 
   @Autowired	
